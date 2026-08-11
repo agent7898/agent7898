@@ -24,5 +24,3 @@ Motivated CSE student skilled in C, C++, Java, Python, and R. Strong fundamental
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/agent7898) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-c-likith-chowdary-3035831ab/)
 
 ---
-
-*Education and projects are intentionally omitted from this README.*
