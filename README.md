@@ -18,9 +18,7 @@ Motivated CSE student skilled in C, C++, Java, Python, and R. Strong fundamental
 
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%23000000.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Software Development](https://img.shields.io/badge/Software%20Development-%23555555.svg?style=for-the-badge&logo=appveyor&logoColor=white) ![OOP](https://img.shields.io/badge/Object-Oriented%20Programming-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white) ![Model Training](https://img.shields.io/badge/Basic%20Model%20Training%20Workflows-%23008B8B.svg?style=for-the-badge)
-
-![Algorithmic Problem Solving](https://img.shields.io/badge/Algorithmic%20and%20Logical%20Problem-Solving-%23007ACC.svg?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/agent7898) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-c-likith-chowdary-3035831ab/)
