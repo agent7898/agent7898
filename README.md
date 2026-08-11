@@ -1,9 +1,28 @@
-# 💫 About Me:
-👋 Hi, I’m Likith<br><br>🚀 Full Stack Developer (MERN) | 🌱 Exploring Data Science & AI<br><br>🔭 Currently: Building web apps with MongoDB, Express, React, and Node.js.<br><br>🌱 Learning: Full Stack Development (MERN) + diving into Data Science & Reinforcement Learning.<br><br>🤖 Future Goals: Transition into Machine Learning & AI, especially Reinforcement Learning.<br><br>💡 Interests: Open-source, problem-solving, and algorithmic challenges.<br><br>
+# 💫 About Me
+👋 Hi — I’m Likith, a motivated Computer Science Engineering student with strong programming skills and a growing interest in software development and machine learning. I enjoy solving algorithmic problems, building reliable software, and experimenting with basic model training workflows.
 
+## 🧭 Professional Summary
+Motivated CSE student skilled in C, C++, Java, Python, and R. Strong fundamentals in object-oriented design, algorithms, and problem solving. Quick learner who adapts to new technologies and contributes effectively to development and ML-focused tasks.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/g-c-likith-chowdary-3035831ab/) 
+## 🛠️ Skills
+- Programming: C, C++, Java, Python, R, JavaScript
+- Software & Dev Tools: Git & GitHub, Linux / Command Line, VS Code, PyCharm, Jupyter Notebook
+- Concepts: Object-Oriented Programming, algorithmic & logical problem solving, basic model training workflows
+- Web & APIs: FastAPI (Swagger UI), JavaScript-based tooling
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## 🌐 Socials
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/agent7898) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-c-likith-chowdary-3035831ab/)
+
+---
+
+*Education and projects are intentionally omitted from this README.*
